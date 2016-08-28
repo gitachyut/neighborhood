@@ -1,0 +1,3 @@
+google map
+
+https://maps.googleapis.com/maps/api/geocode/json?&address=sipajhar,assam
