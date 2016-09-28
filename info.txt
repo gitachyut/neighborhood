@@ -5,3 +5,6 @@ https://maps.googleapis.com/maps/api/geocode/json?&address=sipajhar,assam
 node modules for react and socket.io
 
 npm install --save express body-parser react react-dom socket.io webpack webpack-dev-middleware babel-core babel-loader babel-preset-es2015 babel-preset-react babel-plugin-transform-class-properties
+
+
+npm install --save express body-parser react react-dom socket.io webpack babel-cli  babel-core babel-loader babel-preset-es2015 babel-preset-react babel-plugin-transform-class-properties react-router ejs nodemon graphql graphiql express-graphql sequelize cookie-parser flux react-relay
